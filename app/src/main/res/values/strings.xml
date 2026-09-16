@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TaskFlow</string>
+
+    <!-- Tela Home -->
+    <string name="home_title">TaskFlow</string>
+    <string name="add_task_button_description">Adicionar nova tarefa</string>
+
+    <!-- Tela Nova Tarefa -->
+    <string name="new_task_title">Nova Tarefa</string>
+    <string name="task_name_label">Nome da tarefa</string>
+    <string name="task_name_placeholder">Digite o nome da tarefa</string>
+    <string name="task_description_label">Descrição</string>
+    <string name="task_description_placeholder">Adicione uma descrição…</string>
+    <string name="save_button">Salvar</string>
+    <string name="back_button_description">Voltar</string>
+
+    <!-- Tela Detalhes da Tarefa -->
+    <string name="task_details_title">Detalhes da Tarefa</string>
+    <string name="status_pending">Pendente</string>
+    <string name="status_completed">Concluída</string>
+    <string name="mark_completed_button">Marcar como concluída</string>
+    <string name="delete_task_button">Excluir tarefa</string>
+
+    <!-- Exemplos de tarefas (dados fictícios iniciais) -->
+    <string name="sample_task_1">Comprar mantimentos</string>
+    <string name="sample_task_2">Estudar para a prova</string>
+    <string name="sample_task_3">Pagar conta de luz</string>
+    <string name="sample_task_4">Lavar o carro</string>
+</resources>

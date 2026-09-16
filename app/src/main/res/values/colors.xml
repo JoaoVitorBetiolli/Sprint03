@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores base -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Cores de fundo e texto -->
+    <color name="background_light">#FFFFFFFF</color>
+    <color name="text_primary">#FF111111</color>
+    <color name="text_secondary">#FF757575</color>
+    <color name="divider_gray">#FFE8E8E8</color>
+
+    <!-- Cor de destaque (botões principais, ex: Salvar) -->
+    <color name="primary_blue">#FF2F6FED</color>
+
+    <!-- Status das tarefas -->
+    <color name="status_completed_green">#FF2E7D32</color>
+    <color name="status_pending_gray">#FF9E9E9E</color>
+
+    <!-- Ação destrutiva (Excluir tarefa) -->
+    <color name="delete_red">#FFD32F2F</color>
+</resources>
