@@ -26,4 +26,18 @@
     <string name="sample_task_2">Estudar para a prova</string>
     <string name="sample_task_3">Pagar conta de luz</string>
     <string name="sample_task_4">Lavar o carro</string>
+
+    <!-- Estados e erros -->
+    <string name="loading_message">Carregando…</string>
+    <string name="empty_tasks_message">Nenhuma tarefa ainda. Toque em + para adicionar.</string>
+    <string name="retry_button">Tentar novamente</string>
+    <string name="error_load_tasks">Não foi possível carregar as tarefas.</string>
+    <string name="error_load_task">Não foi possível carregar a tarefa.</string>
+    <string name="error_task_not_found">Tarefa não encontrada.</string>
+    <string name="error_empty_title">Digite um nome para a tarefa.</string>
+    <string name="error_save_task">Não foi possível salvar a tarefa.</string>
+    <string name="error_update_task">Não foi possível atualizar a tarefa.</string>
+    <string name="error_delete_task">Não foi possível excluir a tarefa.</string>
+    <string name="mark_pending_button">Marcar como pendente</string>
+    <string name="saving_message">Salvando…</string>
 </resources>
